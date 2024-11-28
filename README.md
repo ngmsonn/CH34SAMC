@@ -1,6 +1,6 @@
 # Graduate Course: Statistics and Applied Mathematics for Chemistry
 [Graduate Course] Statistics and Applied Mathematics for Chemistry, Son Nguyen Manh (Teaching Assistant), 2024. \
-Update: Final exam
+
 
 ## Books
 * [Chemometrics Mathematics and Statistics in Chemistry](https://link.springer.com/book/10.1007/978-94-017-1026-8)
